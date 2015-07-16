@@ -1,5 +1,5 @@
-## Put comments here that give an overall description of what your
-## functions do
+## Reducing computing costs by caching the inverse of a matrix
+## so that it does not have to be computed again if it didn't change
 
 ## Write a short comment describing this function
 
